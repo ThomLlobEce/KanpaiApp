@@ -3,8 +3,11 @@
 Kanpai is a cross-platform mobile app on the referencing of Japanese import products.
 This app is developped in a private git repository, **this is only a presentation page of the project**.
 
+# Work in progress
+We are migrating the application from React Native to Flutter.
+
 # Test it !
-This app is in developpement but **you can test it now** !
+This app is in developpement but ~~**you can test it now** !~~ (Edit September, 2020: The project SDK version (v35.0.0) is no longer supported by expo client, the app can no longer be tested. Flutter demo incomming soon ! You can still read about which features were available on the previous React Native application in the section "Test the app".)
 
 ## Download the latest version
 
